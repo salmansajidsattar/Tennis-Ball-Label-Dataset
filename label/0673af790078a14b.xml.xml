@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tennis ball</folder>
+	<filename>0673af790078a14b.jpg</filename>
+	<path>D:\TrainingDaata\OID\Dataset\train\Tennis ball\0673af790078a14b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>826</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>483</xmin>
+			<ymin>694</ymin>
+			<xmax>503</xmax>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymin>713</ymin>
+			<xmax>501</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>717</ymin>
+			<xmax>525</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+</annotation>
